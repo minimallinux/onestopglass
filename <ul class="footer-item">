@@ -1,0 +1,26 @@
+ <ul class="footer-item">
+              <li>
+                <a href="http://tachyons.io/">Tachyons</a>
+              </li>
+              <li>
+                <a href="https://milligram.io/">Milligram</a>
+              </li>
+              <li>
+                <a href="https://purecss.io/">Pure CSS</a>
+              </li>
+              <li>
+                <a href="http://getmobicss.com/">Mobi CSS</a>
+              </li>
+              <li>
+                <a href="https://cssgrid.io/">CSS Grid</a>
+              </li>
+              <li>
+                <a href="https://bulma.io/">Bulma</a>
+              </li>
+               <li>
+                <a href=https://minicss.org/">Mini CSS</a>
+              </li>
+	              <li>
+                <a href="https://sachinchoolur.github.io/lightgallery.js/">Lightgallery</a>
+              </li>
+             </ul>         
